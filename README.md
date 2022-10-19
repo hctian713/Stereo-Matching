@@ -12,6 +12,7 @@
 
 ## 立体匹配 Stereo Matching
 [StereoRecticy.cpp](./StereoMatching.cpp) **立体匹配程序**  
+- 局部匹配 BM *(block matching)*
 - 半全局匹配 SGBM *(semi-global block matching)*
-- 全局匹配 
+ 
  

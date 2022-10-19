@@ -2,7 +2,7 @@
 ## `【武汉大学遥感学院】CV&PR课设 | 极线纠正+立体匹配`
 
 [left0](./left0) [right0](./right0) **相机拍摄原始左右影像**  
-[EpipolarImg](./EpipolarImg) **核线影像** 
+[EpipolarImg](./EpipolarImg) **核线影像（MiddleBury/KITTI/自己拍摄）** 
 
 ## 极线纠正 Epipolar Rectification
 [StereoMatching.cpp](./StereoMatching.cpp) **极线纠正程序**  

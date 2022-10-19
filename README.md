@@ -8,7 +8,7 @@
 [StereoMatching.cpp](./StereoMatching.cpp) **极线纠正程序**  
 - 相机标定
 - 
-<img src="show/epipolar.png" width="700">
+<img src="show/epipolar.png" width="600">
 
 ## 立体匹配 Stereo Matching
 [StereoRecticy.cpp](./StereoMatching.cpp) **立体匹配程序**  

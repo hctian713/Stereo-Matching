@@ -18,13 +18,13 @@
 ### 核线影像（左0）与视差图（BM/SGBM）
 >MiddleBury
 
- <img src="EpipolarImg/10.png" width="300"> <img src="DispImg/1BM.png" width="300"> <img src="DispImg/1SGBM.png" width="300"><br>
- <img src="EpipolarImg/20.png" width="300"> <img src="DispImg/2BM.png" width="300"> <img src="DispImg/2SGBM.png" width="300"><br>
+ <img src="EpipolarImg/10.png" width="200"> <img src="DispImg/1BM.png" width="200"> <img src="DispImg/1SGBM.png" width="200"><br>
+ <img src="EpipolarImg/20.png" width="200"> <img src="DispImg/2BM.png" width="200"> <img src="DispImg/2SGBM.png" width="200"><br>
  
 >KITTI
 
- <img src="EpipolarImg/40.png" width="300"> <img src="DispImg/4BM.png" width="300"> <img src="DispImg/4SGBM.png" width="300"><br>
- <img src="EpipolarImg/50.png" width="300"> <img src="DispImg/5BM.png" width="300"> <img src="DispImg/5SGBM.png" width="300"><br>
+ <img src="EpipolarImg/40.png" width="200"> <img src="DispImg/4BM.png" width="200"> <img src="DispImg/4SGBM.png" width="200"><br>
+ <img src="EpipolarImg/50.png" width="200"> <img src="DispImg/5BM.png" width="200"> <img src="DispImg/5SGBM.png" width="200"><br>
 >自己拍摄
 
- <img src="EpipolarImg/rim1.png" width="300"> <img src="DispImg/test.png" width="300"> <img src="DispImg//test1.png" width="300"><br>
+ <img src="EpipolarImg/rim1.png" width="200"> <img src="DispImg/test.png" width="200"> <img src="DispImg//test1.png" width="200"><br>

@@ -27,4 +27,4 @@
  <img src="EpipolarImg/50.png" width="300"> <img src="DispImg/5BM.png" width="300"> <img src="DispImg/5SGBM.png" width="300"><br>
 >自己拍摄
 
- <img src="EpipolarImg/rim1.png" width="300"> <img src="DispImg/test0.png" width="300"> <img src="DispImg//test1.png" width="300"><br>
+ <img src="EpipolarImg/rim1.png" width="300"> <img src="DispImg/test.png" width="300"> <img src="DispImg//test1.png" width="300"><br>

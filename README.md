@@ -15,6 +15,6 @@
 [StereoRecticy.cpp](./StereoMatching.cpp) **立体匹配程序**  
 - 局部匹配 BM *(block matching)*
 - 半全局匹配 SGBM *(semi-global block matching)*
-#### 核线影像（左0右1）与视差图
- <img src="EpipolarImg/10.png" width="300"> <img src="EpipolarImg/11.png" width="300">  <img src="DispImg/1.png" width="300">
+### 核线影像（左0）与视差图（BM/SGBM）
+ <img src="EpipolarImg/10.png" width="300"> <img src="DispImg/1BM.png" width="300"> <img src="DispImg/1SGBM.png" width="300">
  

@@ -6,8 +6,9 @@
 
 ## 极线纠正 Epipolar Rectification
 [StereoMatching.cpp](./StereoMatching.cpp) **极线纠正程序**  
-- 相机标定
-- 
+[out_calibration.yml](./out_calibration.yml) **相机参数文件**
+- 张正友法相机标定
+- 影像立体纠正
 <img src="show/epipolar.png" width="600">
 
 ## 立体匹配 Stereo Matching
